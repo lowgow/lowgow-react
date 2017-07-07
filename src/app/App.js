@@ -1,7 +1,7 @@
 import React from 'react';
 import Canvas from '../canvas/Canvas';
 import Text from '../text/Text';
-import logo from './logo.svg';
+import logo from './logo-small.svg';
 import './App.css';
 
 class App extends React.Component {
